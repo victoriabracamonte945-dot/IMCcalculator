@@ -16,4 +16,4 @@ else:
     print("Usted tiene obesidad")
 
 print("Gracias por probar la calculadora :)")
-int("Presione enter para salir...")
+input("Presione enter para salir...")
